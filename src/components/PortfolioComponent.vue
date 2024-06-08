@@ -20,7 +20,7 @@
 </template>
 
 <script>
-import Image from '@/assets/profil.jpeg';
+import Image from '@/assets/profil.jpg';
 
 export default {
     name: 'portfolio-page',
